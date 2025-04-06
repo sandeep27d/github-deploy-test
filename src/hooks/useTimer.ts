@@ -1,4 +1,4 @@
-import { JSX, useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 export const useTimer = (
   initialSec: number = 0,
