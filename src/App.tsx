@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 import { Countdown } from "./components/Countdown";
-import Stopwatch from "./components/stopwatch";
+import Stopwatch from "./components/Stopwatch";
 
 function App() {
   const [count, setCount] = useState(0);
